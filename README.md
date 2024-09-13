@@ -37,7 +37,6 @@ This project demonstrates the implementation of a text classification system usi
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To run this project locally, you'll need to install the following dependencies:
@@ -100,9 +99,3 @@ print(predictions)
 
 ## Contributing
 Contributions to this project are welcome😄 Feel free to submit a pull request or open an issue if you have suggestions or bug reports.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-
