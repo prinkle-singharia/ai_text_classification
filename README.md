@@ -12,11 +12,12 @@ This project demonstrates the implementation of a text classification system usi
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To run this project locally, you'll need to install the following dependencies:
 
 ```bash
 pip install transformers torch scikit-learn
+
+## Dataset
+The project assumes that you have a labeled dataset with text samples and corresponding labels. This dataset should be split into training and validation sets.
